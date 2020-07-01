@@ -1,3 +1,3 @@
 # computer_vision_papers
 
-- [Low Resolution to High Resolution using Generative Adversarial Network](https://github.com/adamian98/pulse)
+- [Pulse](https://github.com/adamian98/pulse): Low Resolution to High Resolution using Generative Adversarial Network
